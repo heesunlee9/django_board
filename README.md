@@ -1,4 +1,4 @@
-# django_signup
+# django board
 Keywords: django, Flask-SQLAlchemy, flask WTForms, bootstrap, python
 django_signup lets you know how to implement sign up, sign in, and sign out using django
 
