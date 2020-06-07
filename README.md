@@ -1,4 +1,4 @@
-<h1>Django board
+<h1>Django board</h1>
 Last Update: 2020/06/07
 
 ## Features
