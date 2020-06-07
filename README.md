@@ -1,5 +1,5 @@
-# Django board
-
+<h1>Django board
+Last Update: 2020/06/07
 
 ## Features
 ### Sign up 
@@ -7,12 +7,10 @@
 ### Post Uploading 
 ### Tagging
 
-### 
+## Django board was developed using 
+django, Flask-SQLAlchemy, flask WTForms, bootstrap, python
 
-Keywords: django, Flask-SQLAlchemy, flask WTForms, bootstrap, python
-django_signup lets you know how to implement sign up, sign in, and sign out using django
-
-# How to Start
+# How to Start(
 1. pip install virtualenv
 
 2. virtualenv [your virtual environment name] <br>
